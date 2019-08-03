@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/labyrinth/static/css/main.a717c26b.chunk.css",
-    "main.js": "/labyrinth/static/js/main.112aa4cd.chunk.js",
-    "main.js.map": "/labyrinth/static/js/main.112aa4cd.chunk.js.map",
+    "main.css": "/labyrinth/static/css/main.35ddc644.chunk.css",
+    "main.js": "/labyrinth/static/js/main.4767038d.chunk.js",
+    "main.js.map": "/labyrinth/static/js/main.4767038d.chunk.js.map",
     "runtime~main.js": "/labyrinth/static/js/runtime~main.ab342c95.js",
     "runtime~main.js.map": "/labyrinth/static/js/runtime~main.ab342c95.js.map",
     "static/js/2.65aa1cca.chunk.js": "/labyrinth/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/labyrinth/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/labyrinth/index.html",
-    "precache-manifest.98ac279bed06827e91c49acef3c83343.js": "/labyrinth/precache-manifest.98ac279bed06827e91c49acef3c83343.js",
+    "precache-manifest.f40787287fbe734f0a7add9ae1f447a2.js": "/labyrinth/precache-manifest.f40787287fbe734f0a7add9ae1f447a2.js",
     "service-worker.js": "/labyrinth/service-worker.js",
-    "static/css/main.a717c26b.chunk.css.map": "/labyrinth/static/css/main.a717c26b.chunk.css.map",
+    "static/css/main.35ddc644.chunk.css.map": "/labyrinth/static/css/main.35ddc644.chunk.css.map",
     "static/media/App.sass": "/labyrinth/static/media/wrong.872d0c8e.png"
   }
 }

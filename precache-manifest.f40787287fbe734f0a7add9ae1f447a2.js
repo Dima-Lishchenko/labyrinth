@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a849a54885705a1265d2c702fdb4856a",
+    "revision": "5e32efa24c7416bb0f0541f0f4e871fb",
     "url": "/labyrinth/index.html"
   },
   {
-    "revision": "ad8542beb4fc034e926e",
-    "url": "/labyrinth/static/css/main.a717c26b.chunk.css"
+    "revision": "6da576013f572af90ed5",
+    "url": "/labyrinth/static/css/main.35ddc644.chunk.css"
   },
   {
     "revision": "681b51057d74cfa8975d",
     "url": "/labyrinth/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "ad8542beb4fc034e926e",
-    "url": "/labyrinth/static/js/main.112aa4cd.chunk.js"
+    "revision": "6da576013f572af90ed5",
+    "url": "/labyrinth/static/js/main.4767038d.chunk.js"
   },
   {
     "revision": "17e89474fa7acda5f1e6",
